@@ -35,4 +35,6 @@ We then converted the data to a list and following that step, converted the data
 In reviewing the June and December data, we see that the temperatures are fairly consistent with the differences between the average temps (June 75 / December 71) and max temps (June 85 / December 83) being 4 and 2 degrees respectively.  However, the variance in the minimum is 8 degrees which shows that the December minimum temp is twice the variance between the average temps.
 
 ### Recommendation for further analysis
-If I were to perform additional analysis, I would want to look at the precipitation and cloudiness.  We may also want to review how many stations reported for both June and December to assure that we're getting consistent data.
+If I were to perform additional analysis, I would want to look at the precipitation data for both June and December.  
+![June precipitation]()
+![Dec preciptation]()
