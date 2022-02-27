@@ -15,15 +15,18 @@ The purpose of this analysis is to gather Time of Observation (TOBs) statistics 
     * June: 64 degrees
     * December:  56 degrees
 
-![June stats]()
-![December stats]() 
+![June stats](https://github.com/LauraZJ/surfs_up/blob/main/resources/June_stats.png)
+![December stats](https://github.com/LauraZJ/surfs_up/blob/main/resources/december_stats.png) 
 #### *Note:  we have no data for December 2017*
 
 ### How it was done
 To perform this analysis, we connected to the hawaii.sqlite database and extracted June and December specific TOBs data. (*images below are for June but similar actions were taken to gather December data*)
-![query june data]()
+
+![query june data](https://github.com/LauraZJ/surfs_up/blob/main/resources/query_june_data.png)
+
 We then converted the data to a list and following that step, converted the data to a dataframe, named the columns and set the date as the index (see below).  Once that was completed, we used dataframe.describe() to print the statistics.
-![june dataframe]()
+
+![june dataframe](https://github.com/LauraZJ/surfs_up/blob/main/resources/create_june_dataframe.png)
 
 
 
