@@ -26,6 +26,7 @@ To perform this analysis, we connected to the hawaii.sqlite database and extract
 ![query june data](https://github.com/LauraZJ/surfs_up/blob/main/resources/query_june_data.png)
 
 We then converted the data to a list and following that step, converted the data to a dataframe, named the columns and set the date as the index (see below).  Once that was completed, we used dataframe.describe() to print the statistics.
+![June list](https://github.com/LauraZJ/surfs_up/blob/main/resources/convert_to_list.png)
 
 ![june dataframe](https://github.com/LauraZJ/surfs_up/blob/main/resources/create_june_dataframe.png)
 
@@ -36,5 +37,5 @@ In reviewing the June and December data, we see that the temperatures are fairly
 
 ### Recommendation for further analysis
 If I were to perform additional analysis, I would want to look at the precipitation data for both June and December.  
-![June precipitation]()
-![Dec preciptation]()
+![June precipitation](https://github.com/LauraZJ/surfs_up/blob/main/resources/jun_precip.png)
+![Dec preciptation](https://github.com/LauraZJ/surfs_up/blob/main/resources/dec_precip.png)
