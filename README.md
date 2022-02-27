@@ -35,7 +35,9 @@ We then converted the data to a list and following that step, converted the data
 ## Summary
 In reviewing the June and December data, we see that the temperatures are fairly consistent with the differences between the average temps (June 75 / December 71) and max temps (June 85 / December 83) being 4 and 2 degrees respectively.  However, the variance in the minimum is 8 degrees which shows that the December minimum temp is twice the variance between the average temps.
 
-### Recommendation for further analysis
-If I were to perform additional analysis, I would want to look at the precipitation data for both June and December.  
+### Additional analysis
+Additional analysis that would be helpful is analysis of preciptation data for both months, June and December.  Below, you will see that I have provided the statistics for each month as well as a plot of the data for each month.   When looking at the statistics, we see that the average rainfall in June is 0.136360 inches with the highest rainfall amount of 4.43 inches.  In contrast, the average precipitation in December is 0.216819 with a maximum of 6.42 inches.   
+![June_precip_stats](https://github.com/LauraZJ/surfs_up/blob/main/resources/june_precip_stats.png)
+![December precip stats](https://github.com/LauraZJ/surfs_up/blob/main/resources/dec_precip_stats.png)
 ![June precipitation](https://github.com/LauraZJ/surfs_up/blob/main/resources/jun_precip.png)
 ![Dec preciptation](https://github.com/LauraZJ/surfs_up/blob/main/resources/dec_precip.png)
