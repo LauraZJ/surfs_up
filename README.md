@@ -41,3 +41,4 @@ Additional analysis that would be helpful is analysis of preciptation data for b
 ![December precip stats](https://github.com/LauraZJ/surfs_up/blob/main/resources/dec_precip_stats.png)
 ![June precipitation](https://github.com/LauraZJ/surfs_up/blob/main/resources/jun_precip.png)
 ![Dec preciptation](https://github.com/LauraZJ/surfs_up/blob/main/resources/dec_precip.png)
+
