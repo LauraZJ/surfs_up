@@ -20,7 +20,8 @@ The purpose of this analysis is to gather Time of Observation (TOBs) statistics 
 #### *Note:  we have no data for December 2017*
 
 ### How it was done
-To perform this analysis, we connected to the hawaii.sqlite database and extracted June and December specific TOBs data. (*images below are for June but similar actions were taken to gather December data*)
+To perform this analysis, we connected to the hawaii.sqlite database and extracted June and December specific TOBs data. 
+(*images below are for June but similar actions were taken to gather December data*)
 
 ![query june data](https://github.com/LauraZJ/surfs_up/blob/main/resources/query_june_data.png)
 
@@ -34,4 +35,4 @@ We then converted the data to a list and following that step, converted the data
 In reviewing the June and December data, we see that the temperatures are fairly consistent with the differences between the average temps (June 75 / December 71) and max temps (June 85 / December 83) being 4 and 2 degrees respectively.  However, the variance in the minimum is 8 degrees which shows that the December minimum temp is twice the variance between the average temps.
 
 ### Recommendation for further analysis
-If I were to perform additional analysis, I would want to look at the precipitation and cloudiness.
+If I were to perform additional analysis, I would want to look at the precipitation and cloudiness.  We may also want to review how many stations reported for both June and December to assure that we're getting consistent data.
